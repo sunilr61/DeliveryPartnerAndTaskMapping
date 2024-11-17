@@ -9,5 +9,4 @@ public class QCommerceApplication {
     public static void main(String[] args) {
         SpringApplication.run(QCommerceApplication.class, args);
     }
-
 }
